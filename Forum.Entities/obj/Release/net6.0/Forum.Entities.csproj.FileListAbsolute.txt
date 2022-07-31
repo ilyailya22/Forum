@@ -1,0 +1,12 @@
+D:\TestWork\Forum\Forum.Entities\bin\Release\net6.0\Forum.Entities.deps.json
+D:\TestWork\Forum\Forum.Entities\bin\Release\net6.0\Forum.Entities.dll
+D:\TestWork\Forum\Forum.Entities\bin\Release\net6.0\Forum.Entities.pdb
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.csproj.AssemblyReference.cache
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.AssemblyInfoInputs.cache
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.AssemblyInfo.cs
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.csproj.CoreCompileInputs.cache
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.dll
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\refint\Forum.Entities.dll
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\Forum.Entities.pdb
+D:\TestWork\Forum\Forum.Entities\obj\Release\net6.0\ref\Forum.Entities.dll

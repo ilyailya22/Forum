@@ -1,0 +1,15 @@
+D:\TestWork\Forum\Forum.Core\bin\Release\net6.0\Forum.Core.deps.json
+D:\TestWork\Forum\Forum.Core\bin\Release\net6.0\Forum.Core.dll
+D:\TestWork\Forum\Forum.Core\bin\Release\net6.0\Forum.Core.pdb
+D:\TestWork\Forum\Forum.Core\bin\Release\net6.0\Forum.Entities.dll
+D:\TestWork\Forum\Forum.Core\bin\Release\net6.0\Forum.Entities.pdb
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.csproj.AssemblyReference.cache
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.AssemblyInfoInputs.cache
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.AssemblyInfo.cs
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.csproj.CoreCompileInputs.cache
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.csproj.CopyComplete
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.dll
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\refint\Forum.Core.dll
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\Forum.Core.pdb
+D:\TestWork\Forum\Forum.Core\obj\Release\net6.0\ref\Forum.Core.dll
